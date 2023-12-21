@@ -1,0 +1,6 @@
+{
+    "List": [
+        "ERROR: apport (pid 8424) Mon Jul 25 11:17:13 2022: host pid 7423 crashed in a separate mount namespace, ignoring"
+    ],
+    "Count": 1
+}
